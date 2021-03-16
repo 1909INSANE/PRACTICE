@@ -1,4 +1,4 @@
 def project(num):
-	print(num + 5)
+	return (num + 5)
 
-project(2)
+print(project(2))
